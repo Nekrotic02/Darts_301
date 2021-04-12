@@ -1,0 +1,37 @@
+﻿  Board.cpp
+  Game.cpp
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Player.h(7,1): error C2504: 'Game': base class undefined
+  Player.cpp
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Throw.h(6,17): error C2061: syntax error: identifier 'Player'
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Throw.h(7,21): error C2061: syntax error: identifier 'Player'
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Game.h(14,8): error C2143: syntax error: missing ';' before '*'
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Game.h(14,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Game.h(14,20): error C2238: unexpected token(s) preceding ';'
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Game.h(23,20): error C2061: syntax error: identifier 'Player'
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Player.cpp(6,1): error C2511: 'Player::Player(std::string,short)': overloaded member function not found in 'Player'
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Player.h(5): message : see declaration of 'Player'
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Player.cpp(7,2): error C2597: illegal reference to non-static member 'Player::name'
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Player.h(9): message : see declaration of 'Player::name'
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Player.cpp(8,2): error C2597: illegal reference to non-static member 'Player::accuracy'
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Player.h(11): message : see declaration of 'Player::accuracy'
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Player.cpp(9,2): error C2597: illegal reference to non-static member 'Player::Temp_Score'
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Player.h(12): message : see declaration of 'Player::Temp_Score'
+  Source.cpp
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Throw.h(6,17): error C2061: syntax error: identifier 'Player'
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Throw.h(7,21): error C2061: syntax error: identifier 'Player'
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Game.h(14,8): error C2143: syntax error: missing ';' before '*'
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Game.h(14,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Game.h(14,20): error C2238: unexpected token(s) preceding ';'
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Game.h(23,20): error C2061: syntax error: identifier 'Player'
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Source.cpp(24,38): warning C4244: 'argument': conversion from 'short' to 'char', possible loss of data
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Source.cpp(33,38): warning C4244: 'argument': conversion from 'short' to 'char', possible loss of data
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Source.cpp(59,40): error C2660: 'Game::First_Player': function does not take 2 arguments
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Game.h(23,7): message : see declaration of 'Game::First_Player'
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Source.cpp(60,41): error C2660: 'Game::First_Player': function does not take 2 arguments
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Game.h(23,7): message : see declaration of 'Game::First_Player'
+  Throw.cpp
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Game.h(14,8): error C2143: syntax error: missing ';' before '*'
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Game.h(14,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Game.h(14,20): error C2238: unexpected token(s) preceding ';'
+F:\University Work\First Year\Term 2\Software Design\Darts301\Darts301\Game.h(23,20): error C2061: syntax error: identifier 'Player'
+  Generating Code...
